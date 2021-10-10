@@ -1,4 +1,4 @@
-# splineInterpolation
+# Spline method of interpolation (Інтерполяційний метод сплайнів)
 📖Educational project, where presented construction of the linear interpolation polynomial by the Spline method.
 
 📖Навчальний проект, де представлено побудову лінійного інтерполяційного поліному методом сплайнів.
